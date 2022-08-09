@@ -1,3 +1,3 @@
 {
-	"name"; "Null Bot Multi Device "
+	"name"; "MEENUZ Bot Multi Device "
 }
