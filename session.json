@@ -49,14 +49,14 @@
       "deviceSignature": "QkSNoXkg1/YXjdWv8hHNg/N4F7oAY8IUl/YyJiY4r6lS63J1StI77ja9LUqeUo7OtD/hH9mMvDQDMHXniE4rjA=="
     },
     "me": {
-      "id": "918606413490:28@s.whatsapp.net",
+      "id": "918075123700:28@s.whatsapp.net",
       "verifiedName": "",
-      "name": "⎿𝐖𝐈𝐍͢𝐃𝐑𝐎⏋"
+      "name": "⎿DHΔMU⏋"
     },
     "signalIdentities": [
       {
         "identifier": {
-          "name": "918606413490:28@s.whatsapp.net",
+          "name": "918075123700:28@s.whatsapp.net",
           "deviceId": 0
         },
         "identifierKey": {
@@ -230,7 +230,7 @@
           "data": "xlNvPG0OQBm3PK2i36YiW/ZafYaez0CuKhDR7kGAn2w="
         }
       },
-      "17": null,
+      "17": Dhamu,
       "18": {
         "private": {
           "type": "Buffer",
@@ -331,7 +331,7 @@
           "data": "QH5ipDtH7pvFtLoYw5c+i+Uz276LQqo1NiToObAlvRo="
         }
       },
-      "28": null,
+      "28": Dhamu,
       "29": {
         "private": {
           "type": "Buffer",
@@ -354,7 +354,7 @@
       }
     },
     "sessions": {
-      "918606413490.0": {
+      "918075123700.0": {
         "_sessions": {
           "BTi1cbF5GNnlEs9SB7Dd8h0anjMvNgL2s/kYDuy/UZM8": {
             "registrationId": 1678444963,
