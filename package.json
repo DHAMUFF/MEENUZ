@@ -1,7 +1,7 @@
 {
-  "name": "NULL-MODZ-MD",
+  "name": "MEENUZ",
   "version": "4.0.0",
-  "description": "NUll Modz Multi Device Whatsapp Bot",
+  "description": "Dhamu Modz Multi Device Whatsapp Bot",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "WINDRO (NULL MODZ)",
+  "author": "DHAMU (NULL MODZ)",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.1.0",
@@ -76,10 +76,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NULLMODZ/NULL-MODZ-MD.git"
+    "url": "git+https://github.com/DHAMUFF/MEENUZ.git"
   },
   "bugs": {
-    "url": "https://github.com/NULLMODZ/NULL-MODZ-MD/issues"
+    "url": "https://github.com/DHAMUFF/MEENUZ/issues"
   },
-  "homepage": "https://github.com/NULLMODZ/NULL-MODZ-MD#readme"
+  "homepage": "https://github.com/DHAMUFF/MEENUZ#readme"
 }
