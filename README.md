@@ -1,5 +1,5 @@
 
-# NULL-MODZ-MD
+# MEENUZZZ
 
 <p align="center">
   <a href="https://www.instagram.com/null_modz/"><img src="https://i.imgur.com/J6NSaKM.jpeg" width="500" alt="Profile"/> </a>
